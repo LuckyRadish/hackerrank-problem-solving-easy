@@ -1,0 +1,1202 @@
+[
+  {
+    "title": "Solve Me First",
+    "type": "Algorithm",
+    "category": "Warmup",
+    "difficulty": "Easy",
+    "score": 1,
+    "link": "https://www.hackerrank.com/challenges/solve-me-first"
+  },
+  {
+    "title": "Simple Array Sum",
+    "type": "Algorithm",
+    "category": "Warmup",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/simple-array-sum"
+  },
+  {
+    "title": "Compare the Triplets",
+    "type": "Algorithm",
+    "category": "Warmup",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/compare-the-triplets"
+  },
+  {
+    "title": "A Very Big Sum",
+    "type": "Algorithm",
+    "category": "Warmup",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/a-very-big-sum"
+  },
+  {
+    "title": "Diagonal Difference",
+    "type": "Algorithm",
+    "category": "Warmup",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/diagonal-difference"
+  },
+  {
+    "title": "Plus Minus",
+    "type": "Algorithm",
+    "category": "Warmup",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/plus-minus"
+  },
+  {
+    "title": "Staircase",
+    "type": "Algorithm",
+    "category": "Warmup",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/staircase"
+  },
+  {
+    "title": "Mini-Max Sum",
+    "type": "Algorithm",
+    "category": "Warmup",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/mini-max-sum"
+  },
+  {
+    "title": "Birthday Cake Candles",
+    "type": "Algorithm",
+    "category": "Warmup",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/birthday-cake-candles"
+  },
+  {
+    "title": "Time Conversion",
+    "type": "Algorithm",
+    "category": "Warmup",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/time-conversion"
+  },
+  {
+    "title": "Grading Students",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/grading"
+  },
+  {
+    "title": "Apple and Orange",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/apple-and-orange"
+  },
+  {
+    "title": "Number Line Jumps",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/kangaroo"
+  },
+  {
+    "title": "Between Two Sets",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/between-two-sets"
+  },
+  {
+    "title": "Breaking the Records",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/breaking-best-and-worst-records"
+  },
+  {
+    "title": "Subarray Division",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/the-birthday-bar"
+  },
+  {
+    "title": "Divisible Sum Pairs",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/divisible-sum-pairs"
+  },
+  {
+    "title": "Migratory Birds",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/migratory-birds"
+  },
+  {
+    "title": "Day of the Programmer",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/day-of-the-programmer"
+  },
+  {
+    "title": "Bill Division",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/bon-appetit"
+  },
+  {
+    "title": "Sales by Match",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/sock-merchant"
+  },
+  {
+    "title": "Drawing Book",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/drawing-book"
+  },
+  {
+    "title": "Counting Valleys",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/counting-valleys"
+  },
+  {
+    "title": "Electronics Shop",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/electronics-shop"
+  },
+  {
+    "title": "Cats and a Mouse",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/cats-and-a-mouse"
+  },
+  {
+    "title": "Picking Numbers",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/picking-numbers"
+  },
+  {
+    "title": "The Hurdle Race",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/the-hurdle-race"
+  },
+  {
+    "title": "Designer PDF Viewer",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/designer-pdf-viewer"
+  },
+  {
+    "title": "Utopian Tree",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/utopian-tree"
+  },
+  {
+    "title": "Angry Professor",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/angry-professor"
+  },
+  {
+    "title": "Beautiful Days at the Movies",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/beautiful-days-at-the-movies"
+  },
+  {
+    "title": "Viral Advertising",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/strange-advertising"
+  },
+  {
+    "title": "Save the Prisoner!",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/save-the-prisoner"
+  },
+  {
+    "title": "Circular Array Rotation",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/circular-array-rotation"
+  },
+  {
+    "title": "Sequence Equation",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/permutation-equation"
+  },
+  {
+    "title": "Jumping on the Clouds: Revisited",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited"
+  },
+  {
+    "title": "Find Digits",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/find-digits"
+  },
+  {
+    "title": "Append and Delete",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/append-and-delete"
+  },
+  {
+    "title": "Sherlock and Squares",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/sherlock-and-squares"
+  },
+  {
+    "title": "Library Fine",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/library-fine"
+  },
+  {
+    "title": "Cut the sticks",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/cut-the-sticks"
+  },
+  {
+    "title": "Repeated String",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/repeated-string"
+  },
+  {
+    "title": "Jumping on the Clouds",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/jumping-on-the-clouds"
+  },
+  {
+    "title": "Equalize the Array",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/equality-in-a-array"
+  },
+  {
+    "title": "ACM ICPC Team",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/acm-icpc-team"
+  },
+  {
+    "title": "Taum and B'day",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/taum-and-bday"
+  },
+  {
+    "title": "Modified Kaprekar Numbers",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/kaprekar-numbers"
+  },
+  {
+    "title": "Beautiful Triplets",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/beautiful-triplets"
+  },
+  {
+    "title": "Minimum Distances",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/minimum-distances"
+  },
+  {
+    "title": "Halloween Sale",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/halloween-sale"
+  },
+  {
+    "title": "Chocolate Feast",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/chocolate-feast"
+  },
+  {
+    "title": "Service Lane",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/service-lane"
+  },
+  {
+    "title": "Lisa's Workbook",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/lisa-workbook"
+  },
+  {
+    "title": "Flatland Space Stations",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/flatland-space-stations"
+  },
+  {
+    "title": "Fair Rations",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/fair-rations"
+  },
+  {
+    "title": "Cavity Map",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/cavity-map"
+  },
+  {
+    "title": "Manasa and Stones",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/manasa-and-stones"
+  },
+  {
+    "title": "The Grid Search",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/the-grid-search"
+  },
+  {
+    "title": "Happy Ladybugs",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/happy-ladybugs"
+  },
+  {
+    "title": "Strange Counter",
+    "type": "Algorithm",
+    "category": "Implementation",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/strange-code"
+  },
+  {
+    "title": "Big Sorting",
+    "type": "Algorithm",
+    "category": "Sorting",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/big-sorting"
+  },
+  {
+    "title": "Super Reduced String",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/reduced-string"
+  },
+  {
+    "title": "Intro to Tutorial Challenges",
+    "type": "Algorithm",
+    "category": "Sorting",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/tutorial-intro"
+  },
+  {
+    "title": "CamelCase",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/camelcase"
+  },
+  {
+    "title": "Insertion Sort - Part 1",
+    "type": "Algorithm",
+    "category": "Sorting",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/insertionsort1"
+  },
+  {
+    "title": "Strong Password",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/strong-password"
+  },
+  {
+    "title": "Two Characters",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/two-characters"
+  },
+  {
+    "title": "Insertion Sort - Part 2",
+    "type": "Algorithm",
+    "category": "Sorting",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/insertionsort2"
+  },
+  {
+    "title": "Correctness and the Loop Invariant",
+    "type": "Algorithm",
+    "category": "Sorting",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/correctness-invariant"
+  },
+  {
+    "title": "Caesar Cipher",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/caesar-cipher-1"
+  },
+  {
+    "title": "Mars Exploration",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/mars-exploration"
+  },
+  {
+    "title": "Running Time of Algorithms",
+    "type": "Algorithm",
+    "category": "Sorting",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/runningtime"
+  },
+  {
+    "title": "HackerRank in a String!",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/hackerrank-in-a-string"
+  },
+  {
+    "title": "Quicksort 1 - Partition",
+    "type": "Algorithm",
+    "category": "Sorting",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/quicksort1"
+  },
+  {
+    "title": "Pangrams",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/pangrams"
+  },
+  {
+    "title": "Weighted Uniform Strings",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/weighted-uniform-string"
+  },
+  {
+    "title": "Separate the Numbers",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/separate-the-numbers"
+  },
+  {
+    "title": "Funny String",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/funny-string"
+  },
+  {
+    "title": "Counting Sort 1",
+    "type": "Algorithm",
+    "category": "Sorting",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/countingsort1"
+  },
+  {
+    "title": "Counting Sort 2",
+    "type": "Algorithm",
+    "category": "Sorting",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/countingsort2"
+  },
+  {
+    "title": "Gemstones",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/gem-stones"
+  },
+  {
+    "title": "Alternating Characters",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/alternating-characters"
+  },
+  {
+    "title": "Beautiful Binary String",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/beautiful-binary-string"
+  },
+  {
+    "title": "Closest Numbers",
+    "type": "Algorithm",
+    "category": "Sorting",
+    "difficulty": "Easy",
+    "score": 35,
+    "link": "https://www.hackerrank.com/challenges/closest-numbers"
+  },
+  {
+    "title": "The Love-Letter Mystery",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/the-love-letter-mystery"
+  },
+  {
+    "title": "Find the Median",
+    "type": "Algorithm",
+    "category": "Sorting",
+    "difficulty": "Easy",
+    "score": 35,
+    "link": "https://www.hackerrank.com/challenges/find-the-median"
+  },
+  {
+    "title": "Palindrome Index",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/palindrome-index"
+  },
+  {
+    "title": "Anagram",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/anagram"
+  },
+  {
+    "title": "Making Anagrams",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/making-anagrams"
+  },
+  {
+    "title": "Game of Thrones - I",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/game-of-thrones"
+  },
+  {
+    "title": "Two Strings",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/two-strings"
+  },
+  {
+    "title": "String Construction",
+    "type": "Algorithm",
+    "category": "Strings",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/string-construction"
+  },
+  {
+    "title": "Ice Cream Parlor",
+    "type": "Algorithm",
+    "category": "Search",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/icecream-parlor"
+  },
+  {
+    "title": "Missing Numbers",
+    "type": "Algorithm",
+    "category": "Search",
+    "difficulty": "Easy",
+    "score": 45,
+    "link": "https://www.hackerrank.com/challenges/missing-numbers"
+  },
+  {
+    "title": "Sherlock and Array",
+    "type": "Algorithm",
+    "category": "Search",
+    "difficulty": "Easy",
+    "score": 40,
+    "link": "https://www.hackerrank.com/challenges/sherlock-and-array"
+  },
+  {
+    "title": "Minimum Absolute Difference in an Array",
+    "type": "Algorithm",
+    "category": "Greedy",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array"
+  },
+  {
+    "title": "Marc's Cakewalk",
+    "type": "Algorithm",
+    "category": "Greedy",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/marcs-cakewalk"
+  },
+  {
+    "title": "Grid Challenge",
+    "type": "Algorithm",
+    "category": "Greedy",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/grid-challenge"
+  },
+  {
+    "title": "Luck Balance",
+    "type": "Algorithm",
+    "category": "Greedy",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/luck-balance"
+  },
+  {
+    "title": "Maximum Perimeter Triangle",
+    "type": "Algorithm",
+    "category": "Greedy",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/maximum-perimeter-triangle"
+  },
+  {
+    "title": "Beautiful Pairs",
+    "type": "Algorithm",
+    "category": "Greedy",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/beautiful-pairs"
+  },
+  {
+    "title": "Sherlock and The Beast",
+    "type": "Algorithm",
+    "category": "Greedy",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/sherlock-and-the-beast"
+  },
+  {
+    "title": "Priyanka and Toys",
+    "type": "Algorithm",
+    "category": "Greedy",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/priyanka-and-toys"
+  },
+  {
+    "title": "Largest Permutation",
+    "type": "Algorithm",
+    "category": "Greedy",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/largest-permutation"
+  },
+  {
+    "title": "Mark and Toys",
+    "type": "Algorithm",
+    "category": "Greedy",
+    "difficulty": "Easy",
+    "score": 35,
+    "link": "https://www.hackerrank.com/challenges/mark-and-toys"
+  },
+  {
+    "title": "Jim and the Orders",
+    "type": "Algorithm",
+    "category": "Greedy",
+    "difficulty": "Easy",
+    "score": 40,
+    "link": "https://www.hackerrank.com/challenges/jim-and-the-orders"
+  },
+  {
+    "title": "Permuting Two Arrays",
+    "type": "Algorithm",
+    "category": "Greedy",
+    "difficulty": "Easy",
+    "score": 40,
+    "link": "https://www.hackerrank.com/challenges/two-arrays"
+  },
+  {
+    "title": "Lonely Integer",
+    "type": "Algorithm",
+    "category": "Bit",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/lonely-integer"
+  },
+  {
+    "title": "Maximizing XOR",
+    "type": "Algorithm",
+    "category": "Bit",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/maximizing-xor"
+  },
+  {
+    "title": "Sum vs XOR",
+    "type": "Algorithm",
+    "category": "Bit",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/sum-vs-xor"
+  },
+  {
+    "title": "Flipping bits",
+    "type": "Algorithm",
+    "category": "Bit",
+    "difficulty": "Easy",
+    "score": 40,
+    "link": "https://www.hackerrank.com/challenges/flipping-bits"
+  },
+  {
+    "title": "Game of Stones",
+    "type": "Algorithm",
+    "category": "Game",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/game-of-stones-1"
+  },
+  {
+    "title": "Tower Breakers",
+    "type": "Algorithm",
+    "category": "Game",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/tower-breakers-1"
+  },
+  {
+    "title": "A Chessboard Game",
+    "type": "Algorithm",
+    "category": "Game",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/a-chessboard-game-1"
+  },
+  {
+    "title": "Introduction to Nim Game",
+    "type": "Algorithm",
+    "category": "Game",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/nim-game-1"
+  },
+  {
+    "title": "Misere Nim",
+    "type": "Algorithm",
+    "category": "Game",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/misere-nim-1"
+  },
+  {
+    "title": "Nimble Game",
+    "type": "Algorithm",
+    "category": "Game",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/nimble-game-1"
+  },
+  {
+    "title": "Poker Nim",
+    "type": "Algorithm",
+    "category": "Game",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/poker-nim-1"
+  },
+  {
+    "title": "XOR Strings",
+    "type": "Algorithm",
+    "category": "Debugging",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/strings-xor"
+  },
+  {
+    "title": "Smart Number",
+    "type": "Algorithm",
+    "category": "Debugging",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/smart-number"
+  },
+  {
+    "title": "Arrays - DS",
+    "type": "DS",
+    "category": "Array",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/arrays-ds"
+  },
+  {
+    "title": "2D Array - DS",
+    "type": "DS",
+    "category": "Array",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/2d-array"
+  },
+  {
+    "title": "Dynamic Array",
+    "type": "DS",
+    "category": "Array",
+    "difficulty": "Easy",
+    "score": 15,
+    "link": "https://www.hackerrank.com/challenges/dynamic-array"
+  },
+  {
+    "title": "Left Rotation",
+    "type": "DS",
+    "category": "Array",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/array-left-rotation"
+  },
+  {
+    "title": "Print the Elements of a Linked List",
+    "type": "DS",
+    "category": "Linked List",
+    "difficulty": "Easy",
+    "score": 5,
+    "link": "https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list"
+  },
+  {
+    "title": "Insert a Node at the Tail of a Linked List",
+    "type": "DS",
+    "category": "Linked List",
+    "difficulty": "Easy",
+    "score": 5,
+    "link": "https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list"
+  },
+  {
+    "title": "Insert a node at the head of a linked list",
+    "type": "DS",
+    "category": "Linked List",
+    "difficulty": "Easy",
+    "score": 5,
+    "link": "https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list"
+  },
+  {
+    "title": "Insert a node at a specific position in a linked list",
+    "type": "DS",
+    "category": "Linked List",
+    "difficulty": "Easy",
+    "score": 5,
+    "link": "https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list"
+  },
+  {
+    "title": "Delete a Node",
+    "type": "DS",
+    "category": "Linked List",
+    "difficulty": "Easy",
+    "score": 5,
+    "link": "https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list"
+  },
+  {
+    "title": "Print in Reverse",
+    "type": "DS",
+    "category": "Linked List",
+    "difficulty": "Easy",
+    "score": 5,
+    "link": "https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse"
+  },
+  {
+    "title": "Reverse a linked list",
+    "type": "DS",
+    "category": "Linked List",
+    "difficulty": "Easy",
+    "score": 5,
+    "link": "https://www.hackerrank.com/challenges/reverse-a-linked-list"
+  },
+  {
+    "title": "Compare two linked lists",
+    "type": "DS",
+    "category": "Linked List",
+    "difficulty": "Easy",
+    "score": 5,
+    "link": "https://www.hackerrank.com/challenges/compare-two-linked-lists"
+  },
+  {
+    "title": "Merge two sorted linked lists",
+    "type": "DS",
+    "category": "Linked List",
+    "difficulty": "Easy",
+    "score": 5,
+    "link": "https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists"
+  },
+  {
+    "title": "Get Node Value",
+    "type": "DS",
+    "category": "Linked List",
+    "difficulty": "Easy",
+    "score": 5,
+    "link": "https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail"
+  },
+  {
+    "title": "Delete duplicate-value nodes from a sorted linked list",
+    "type": "DS",
+    "category": "Linked List",
+    "difficulty": "Easy",
+    "score": 5,
+    "link": "https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list"
+  },
+  {
+    "title": "Find Merge Point of Two Lists",
+    "type": "DS",
+    "category": "Linked List",
+    "difficulty": "Easy",
+    "score": 5,
+    "link": "https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists"
+  },
+  {
+    "title": "Inserting a Node Into a Sorted Doubly Linked List",
+    "type": "DS",
+    "category": "Linked List",
+    "difficulty": "Easy",
+    "score": 5,
+    "link": "https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list"
+  },
+  {
+    "title": "Reverse a doubly linked list",
+    "type": "DS",
+    "category": "Linked List",
+    "difficulty": "Easy",
+    "score": 5,
+    "link": "https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list"
+  },
+  {
+    "title": "Tree: Preorder Traversal",
+    "type": "DS",
+    "category": "Tree",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/tree-preorder-traversal"
+  },
+  {
+    "title": "Tree: Postorder Traversal",
+    "type": "DS",
+    "category": "Tree",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/tree-postorder-traversal"
+  },
+  {
+    "title": "Tree: Inorder Traversal",
+    "type": "DS",
+    "category": "Tree",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/tree-inorder-traversal"
+  },
+  {
+    "title": "Tree: Height of a Binary Tree",
+    "type": "DS",
+    "category": "Tree",
+    "difficulty": "Easy",
+    "score": 10,
+    "link": "https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree"
+  },
+  {
+    "title": "Tree : Top View",
+    "type": "DS",
+    "category": "Tree",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/tree-top-view"
+  },
+  {
+    "title": "Tree: Level Order Traversal",
+    "type": "DS",
+    "category": "Tree",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/tree-level-order-traversal"
+  },
+  {
+    "title": "Binary Search Tree : Insertion",
+    "type": "DS",
+    "category": "Tree",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/binary-search-tree-insertion"
+  },
+  {
+    "title": "Binary Search Tree : Lowest Common Ancestor",
+    "type": "DS",
+    "category": "Tree",
+    "difficulty": "Easy",
+    "score": 30,
+    "link": "https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor"
+  },
+  {
+    "title": "QHEAP1",
+    "type": "DS",
+    "category": "Heap",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/qheap1"
+  },
+  {
+    "title": "Maximum Element",
+    "type": "DS",
+    "category": "Stack",
+    "difficulty": "Easy",
+    "score": 20,
+    "link": "https://www.hackerrank.com/challenges/maximum-element"
+  },
+  {
+    "title": "Jesse and Cookies",
+    "type": "DS",
+    "category": "Heap",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/jesse-and-cookies"
+  },
+  {
+    "title": "Equal Stacks",
+    "type": "DS",
+    "category": "Stack",
+    "difficulty": "Easy",
+    "score": 25,
+    "link": "https://www.hackerrank.com/challenges/equal-stacks"
+  }
+]
